@@ -19,3 +19,7 @@ Some of the items on this list require specialised equipment that may not be ava
 ## Metereological system
 
 ## Python control of spectrometers
+
+Using the OO SeaBreeze drivers https://github.com/ap--/python-seabreeze
+
+Direct? python library: https://github.com/ap--/python-oceanoptics

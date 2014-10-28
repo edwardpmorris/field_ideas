@@ -23,3 +23,11 @@ Some of the items on this list require specialised equipment that may not be ava
 Using the OO SeaBreeze drivers https://github.com/ap--/python-seabreeze
 
 Direct? python library: https://github.com/ap--/python-oceanoptics
+
+## Open wave-height logger
+
+http://lukemiller.org/index.php/2014/08/open-wave-height-logger/
+
+## Open underwater data logger
+
+http://edwardmallon.wordpress.com/
